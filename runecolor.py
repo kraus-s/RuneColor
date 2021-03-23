@@ -7,7 +7,7 @@ from docx.shared import RGBColor
 # ---------
 
 runeCode = "runeDict.xlsx"
-inRunes = 'inRunes.txt'
+inRunes = 'inrunes.txt'
 safe = 'a'
 unsafe = 'b'
 
